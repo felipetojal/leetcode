@@ -1,0 +1,1 @@
+![Question from leetcode](14-longestCommonPrefixImage.png)

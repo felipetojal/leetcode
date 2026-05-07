@@ -1,0 +1,1 @@
+![Question from leetcode](118-pascalsTriangleImage.png)
