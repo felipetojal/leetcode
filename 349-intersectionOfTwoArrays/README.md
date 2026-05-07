@@ -1,0 +1,1 @@
+![Question solved](349-intersectionOfTwoArraysImage.png)
