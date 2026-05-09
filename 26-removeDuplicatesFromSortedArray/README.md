@@ -1,0 +1,1 @@
+![Question solved](26-removeDuplicatesFromSortedArrayImage.png)

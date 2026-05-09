@@ -1,0 +1,1 @@
+![Question solved](3660-jumpGameIXImage.png)
